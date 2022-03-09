@@ -56,4 +56,5 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 4
           plugin_tweets_user: kruk_co
+          plugin_tweets_token: 9hngoNtyS6KfiHKbQw6jblrjR
           repositories_forks: yes

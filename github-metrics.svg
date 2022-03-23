@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DR34M-M4K3R/GhostRecon</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An OSINT framework updated weekly, wich with you can search on precise targets, with a lot of features like person search, criminal search, or social media scanning with eamail/phone, and ip changer</div>
@@ -646,7 +646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numpy/numpy</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fundamental package for scientific computing with Python.</div>
@@ -699,7 +699,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python/cpython</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Python programming language</div>
@@ -1406,7 +1406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2022, 19:27:25 (timezone Europe/Warsaw) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Mar 2022, 20:19:21 (timezone Europe/Warsaw) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

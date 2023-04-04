@@ -1,8 +1,8 @@
 Hi!
 <br>
-My name is Rafal and I am a junior sys/web admin.
+My name is Rafal and I am a web administrator.
 <br><br>
-For a living I do variety of things for the really cool company - mostly some junior sys administration and web administration.
+For a living I do variety of things for the really cool company - mostly Web Administration and IT Support.
 <br>
 I like to tinker with Linux internals looking for optimisations in speed and security. My distro of choice is Funtoo <3.
 <br>

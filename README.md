@@ -1,16 +1,19 @@
-Hello, Stranger ☕<br>
-My name is Rafal. I keep websites alive, more or less, and I ask myself daily why anything at all works.<br>
+Hello, Stranger ☕  <br>
+My name is Rafal, and I navigate the curious, crumbling architecture of the web. Websites breathe, servers hum their strange songs, and Linux systems evolve in ways that are both fascinating and maddening. Every day, I ask the same question: *Why does any of this even work?* And every day, the machines answer in riddles.<br>  
 <br>
-🔧 Professionally speaking:<br>
-I wrangle servers, patch problems, and optimize Linux systems like a sculptor chiseling at marble — except the marble has opinions, and the tools break halfway through. Gentoo is my sanctuary, where the illusion of control feels almost real.<br>
+🔧 Professionally, where the wires hum:<br>
+I solve problems in the quiet chaos of the backend. Servers demand attention, websites falter, and Linux systems reveal their quirks like old books with missing pages. Gentoo is where I find a semblance of clarity — a rabbit hole where control feels just close enough to touch, even if the tools sometimes change shape in my hands.<br>
 <br>
-📜 On memory and madness:<br>
-I solve problems, but the details slip away like steam from a coffee cup. So, I write it all down — practical notes for survival, scattered with the occasional absurdity. A habit born of necessity, now bordering on obsession.<br>
+Websites are my looking glass, servers my mad tea party, and when they break (as they inevitably do), I’m there to piece them back together — functional, coherent, and (mostly) sane.<br>
 <br>
-🌌 When the sun sets:<br>
-The hours blur into the soft hum of jazz and the rustle of autumn leaves. I write. Stories emerge — fragmented, yearning, a little unhinged. They're for the sleepless, the seekers of something more, the ones who stare into the void and smirk.<br>
+📜 On memory, madness, and the need to write:<br>
+Problems slip through my fingers like sand, and solutions dissolve as soon as the sun rises. To keep the labyrinth navigable, I write it all down. My notes are part survival guide, part fever dream — the breadcrumbs I scatter through the dark forest of troubleshooting, hoping I’ll find my way back before the wolves.<br>
 <br>
-⚡ Fun fact:<br>
-Every error is a riddle. Every fix, a fleeting triumph. And sometimes, late at night, I suspect the machines laugh at me.<br>
+🌌 When the clock strikes midnight:<br>
+Night is when the veil lifts. Beneath the flicker of a terminal screen, with jazz swirling like smoke and the coffee growing cold, I write. Stories emerge, tangled and strange, like something glimpsed in a dream. They’re for the sleepless wanderers, the seekers of impossible truths, the ones who wonder if the rabbit hole ever ends.<br>
 <br>
-Pull up a terminal. Let’s see where this goes.<br>
+⚡ Fun fact — or is it?<br>
+Every error is a sphinx, every solution a fleeting answer to an unspoken question. And sometimes, as the clock inches past midnight, I swear the servers laugh — not cruelly, but knowingly, as if they understand the dream better than I ever could.<br>
+<br>
+Step through the screen. Bring your questions, your puzzles, your beautifully broken things. Let’s see where this rabbit hole leads.<br>
+<br>
